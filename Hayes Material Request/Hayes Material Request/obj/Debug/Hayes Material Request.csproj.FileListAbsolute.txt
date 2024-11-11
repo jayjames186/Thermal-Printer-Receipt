@@ -1,0 +1,11 @@
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\bin\Debug\Hayes Material Request.exe.config
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\bin\Debug\Hayes Material Request.exe
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\bin\Debug\Hayes Material Request.pdb
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes Material Request.csproj.AssemblyReference.cache
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes_Material_Request.Form1.resources
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes_Material_Request.Properties.Resources.resources
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes Material Request.csproj.GenerateResource.cache
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes Material Request.csproj.CoreCompileInputs.cache
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes Material Request.exe
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes Material Request.pdb
+C:\Users\jjames\source\repos\Hayes Material Request\Hayes Material Request\obj\Debug\Hayes_Material_Request.Form2.resources
